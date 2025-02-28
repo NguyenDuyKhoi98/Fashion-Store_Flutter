@@ -173,5 +173,5 @@ Mọi đóng góp đều được chào đón! Vui lòng:
 Dự án được phân phối dưới giấy phép MIT. Xem `LICENSE` để biết thêm thông tin.
 
 ## 📧 Liên hệ
-- Email: kttstore3cg@gmail.com
+- Email: nguyenduykhoi45@gmail.com
 - GitHub: [@NguyenDuyKhoi98](https://github.com/NguyenDuyKhoi98)
