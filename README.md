@@ -1,7 +1,7 @@
 # KTT STORE - Website Bán Quần áo thời trang
 
 ## 📝 Mô tả
-KTT Store là website bán quần áo thời trang trực tuyến được xây dựng bằng React. Dự án bao gồm đầy đủ tính năng cho cả người dùng và quản trị viên, với giao diện thân thiện và trải nghiệm mua sắm mượt mà.
+KTT Store là dự án gồm ứng dụng bán quần áo thời trang trực tuyến được xây dựng bằng android studio và website cho admin quản lý với giao diện thân thiện và trải nghiệm mua sắm mượt mà.
 
 ## 🛠️ Công nghệ sử dụng
 - Frontend: 
@@ -164,9 +164,9 @@ server/
 ## 🤝 Đóng góp
 Mọi đóng góp đều được chào đón! Vui lòng:
 1. Fork repository
-2. Tạo branch mới (`git checkout -b feature/AmazingFeatureForKTTStore`)
-3. Commit changes (`git commit -m 'Add some AmazingFeatureForKTTStore'`)
-4. Push to branch (`git push origin feature/AmazingFeatureForKTTStore`)
+2. Tạo branch mới 
+3. Commit changes 
+4. Push to branch 
 5. Tạo Pull Request
 
 ## 📝 License
