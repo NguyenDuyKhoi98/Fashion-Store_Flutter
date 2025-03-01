@@ -4,7 +4,13 @@
 KTT Store là dự án gồm ứng dụng bán quần áo thời trang trực tuyến được xây dựng bằng Flutter và website ReactJS cho admin quản lý với giao diện thân thiện và trải nghiệm mua sắm mượt mà.
 
 ## Giao diện Client
-![register](https://github.com/user-attachments/assets/154c9ff4-d7bc-4161-9629-78d7b03dde8f)
+![register](https://github.com/user-attachments/assets/154c9ff4-d7bc-4161-9629-78d7b03dde8f)![login](https://github.com/user-attachments/assets/b970fc28-e7e9-438c-9a5b-9cf92a008c34)
+
+![forgotPassword01](https://github.com/user-attachments/assets/23536812-10e3-47cc-bf60-c19013603908)![forgotPassword02](https://github.com/user-attachments/assets/135bd716-d93b-45e8-824a-d4a7b9b5497c)![forgotPassword03](https://github.com/user-attachments/assets/463886cb-456d-44f9-8bf7-bc705eef4669)
+
+
+
+
 
 
 ## 🛠️ Công nghệ sử dụng
