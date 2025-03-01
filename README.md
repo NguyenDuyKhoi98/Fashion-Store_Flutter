@@ -1,7 +1,11 @@
 # KTT STORE - Website Bán Quần áo thời trang
 
 ## 📝 Mô tả
-KTT Store là dự án gồm ứng dụng bán quần áo thời trang trực tuyến được xây dựng bằng android studio và website cho admin quản lý với giao diện thân thiện và trải nghiệm mua sắm mượt mà.
+KTT Store là dự án gồm ứng dụng bán quần áo thời trang trực tuyến được xây dựng bằng Flutter và website ReactJS cho admin quản lý với giao diện thân thiện và trải nghiệm mua sắm mượt mà.
+
+## Giao diện Client
+![register](https://github.com/user-attachments/assets/154c9ff4-d7bc-4161-9629-78d7b03dde8f)
+
 
 ## 🛠️ Công nghệ sử dụng
 - Frontend: 
